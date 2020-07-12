@@ -71,19 +71,19 @@
 ## 🗂 ポートフォリオ
 ### [BeerGarden](https://play.google.com/store/apps/details?id=yurikanamba.lovealapp&hl=en)
   #### 「愛は盲目」をテーマにしたマッチングアプリ
-  - Githubは[こちら](https://github.com/Team-Loveal/BeerGarden)から
   - 技術スタック
     - Flutter/Dart
     - Node.js
     - Firebase
     - Firestore
     - Cloud Functions
+  - Githubは[こちら](https://github.com/Team-Loveal/BeerGarden)から
 
 ### [R²Arcade](https://r2arcade.com/)
-  #### 「愛は盲目」をテーマにしたマッチングアプリ
-  - Githubは[こちら](https://github.com/PlayerR2/R2-Arcade)から
+  #### インディーゲームをアップロードし、遊べるゲームプラットフォーム
   - 技術スタック
     - Node.js
+    - Express
     - React
     - React Router
     - Firebase
@@ -91,16 +91,32 @@
     - WebGL
     - Unity C#
     - Webpack
+  - Githubは[こちら](https://github.com/PlayerR2/R2-Arcade)から
 
+### By The Poolside
+  #### Gorilla Websocketを活用したリアルタイムチャットアプリ
+  - 技術スタック
+    - Node.js
+    - Go
+    - Gorilla Websocket
+    - Websocket
+    - React
+  - Githubは[こちら](https://github.com/rikukawano/By-The-Poolside)から
+    
+### Hello Japan
+  #### 朝から欲しい情報がまとまっているダッシュボード
+  - 技術スタック
+    - Node.js
+    - Express
+    - Vue.js
+    - Vuex
+    - Rapid API
+  - Githubは[こちら](https://github.com/rapidPotato/Hello-Japan)から
+    
 ## 🔍 興味があるもの
- - 🤖 PWA（Progressive Web Apps）
- - 🍇 Raspberry Pi
- - 🎓 Computer Scienceの基礎
-
-## 🎙 登壇歴
- - Meetup: Are You Really Sure You Know JS Fundamentals? あなたはJSの基礎力に自信がありますか?
-    - 2017/9/6, 2017/11/29 [@Code Chrysalis](https://www.codechrysalis.io/)
-    - [動画](https://www.facebook.com/codechrysalis/videos/1592271870808786/)
+ 1. マイクロサービスアーキテクチャー（gRPC）
+ 2. ブロックチェーン
+ 3. AR
     
 ## 🙎🏻‍♂️ ソーシャル
 |Social|URL|
