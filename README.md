@@ -47,8 +47,10 @@
     - [**Express**](https://expressjs.com/)（個人プロジェクトと授業で数ヶ月使用） 
     - [**Ruby on Rails**](https://rubyonrails.org/)（実務と個人プロジェクトで半年ほど経験） 
     - [**Gorilla**](https://www.gorillatoolkit.org/)（個人プロジェクトで数ヶ月使用） 
+    - [**Cloud Functions**](https://firebase.google.com/docs/functions)（個人プロジェクトで数ヶ月使用） 
     - [**Unity**](https://unity.com/)（個人プロジェクトで数ヶ月使用） 
 #### データベース
+  - [**Firebase**](https://firebase.google.com/)（個人プロジェクトと授業で数ヶ月使用）
   - [**PostgreSQL**](https://www.postgresql.org/)（個人プロジェクトと授業で数ヶ月使用）
   - [**MySQL**](https://www.sqlite.org/)（実務で数ヶ月経験）
   - [**Knex.js**](http://knexjs.org/)（個人プロジェクトと授業で数ヶ月使用）  
@@ -63,10 +65,10 @@
   - 英語（ネイティブ）
 
 ### 🛠 その他
+  - アジャイル開発（Lean Startup）
   - CI/CD（Heroku Pipeline）
   - テスト駆動型開発
   - ペアプログラミング
-  - アジャイル開発（Lean Startup）
 
 ## 🗂 ポートフォリオ
 ### [BeerGarden](https://play.google.com/store/apps/details?id=yurikanamba.lovealapp&hl=en)
@@ -116,7 +118,7 @@
 ## 🔍 興味があるもの
  1. マイクロサービスアーキテクチャー（gRPC）
  2. ブロックチェーン
- 3. AR
+ 3. モバイルAR
     
 ## 🙎🏻‍♂️ ソーシャル
 |Social|URL|
