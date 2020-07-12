@@ -77,8 +77,7 @@
   - ペアプログラミング
 
 ## 🌈 ポートフォリオ
-### [BeerGarden](https://play.google.com/store/apps/details?id=yurikanamba.lovealapp&hl=en)
-  #### 「愛は盲目」をテーマにしたマッチングアプリ
+### [BeerGarden](https://play.google.com/store/apps/details?id=yurikanamba.lovealapp&hl=en)｜「愛は盲目」をテーマにしたマッチングアプリ
   - 技術スタック
     - Flutter/Dart
     - Node.js
@@ -87,8 +86,7 @@
     - Cloud Functions
   - Githubは[こちら](https://github.com/Team-Loveal/BeerGarden)から
 
-### [R²Arcade](https://r2arcade.com/)
-  #### インディーゲームをアップロードし、遊べるゲームプラットフォーム
+### [R²Arcade](https://r2arcade.com/)｜インディーゲームをアップロードし、遊べるゲームプラットフォーム
   - 技術スタック
     - Node.js
     - Express
@@ -101,8 +99,7 @@
     - Webpack
   - Githubは[こちら](https://github.com/PlayerR2/R2-Arcade)から
 
-### By The Poolside
-  #### Gorilla Websocketを活用したリアルタイムチャットアプリ
+### By The Poolside｜Gorilla Websocketを活用したリアルタイムチャットアプリ
   - 技術スタック
     - Node.js
     - Go
@@ -111,8 +108,7 @@
     - React
   - Githubは[こちら](https://github.com/rikukawano/By-The-Poolside)から
     
-### Hello Japan
-  #### 朝から欲しい情報がまとまっているダッシュボード
+### Hello Japan｜朝から欲しい情報がまとまっているダッシュボード
   - 技術スタック
     - Node.js
     - Express
