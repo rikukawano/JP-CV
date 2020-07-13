@@ -63,7 +63,9 @@
   - [**Firebase**](https://firebase.google.com/)（個人プロジェクトと授業で数ヶ月使用）
   - [**PostgreSQL**](https://www.postgresql.org/)（個人プロジェクトと授業で数ヶ月使用）
   - [**MySQL**](https://www.sqlite.org/)（実務で数ヶ月経験）
-  - [**Knex.js**](http://knexjs.org/)（個人プロジェクトと授業で数ヶ月使用）  
+  - [**Knex.js**](http://knexjs.org/)（個人プロジェクトと授業で数ヶ月使用） 
+#### モバイル
+  - [**Flutter/Dart**](https://flutter.dev/)（個人プロジェクトで数ヶ月使用）
 #### テスト
   - [**Mocha**](https://mochajs.org/)（授業で数ヶ月使用）
   - [**Chai**](http://chaijs.com/)・[Chai HTTP](http://chaijs.com/plugins/chai-http/)（授業で数ヶ月使用
