@@ -78,6 +78,7 @@
 
 ## 🌈 ポートフォリオ
 ### [BeerGarden](https://play.google.com/store/apps/details?id=yurikanamba.lovealapp&hl=en)｜「愛は盲目」をテーマにしたマッチングアプリ
+  - 担当：UI/UXデザインと開発、バックエンド（チャット機能、Cloud Functions）
   - 技術スタック
     - Flutter/Dart
     - Node.js
@@ -87,6 +88,7 @@
   - Githubは[こちら](https://github.com/Team-Loveal/BeerGarden)から
 
 ### [R²Arcade](https://r2arcade.com/)｜インディーゲームをアップロードし、遊べるゲームプラットフォーム
+  - 担当：UI/UXデザインと開発、バックエンド（ユーザー認証、ゲームレンダリング）
   - 技術スタック
     - Node.js
     - Express
@@ -100,6 +102,7 @@
   - Githubは[こちら](https://github.com/PlayerR2/R2-Arcade)から
 
 ### By The Poolside｜Gorilla Websocketを活用したリアルタイムチャットアプリ
+  - 担当：フルスタック（1人で開発したため）
   - 技術スタック
     - Node.js
     - Go
@@ -109,6 +112,7 @@
   - Githubは[こちら](https://github.com/rikukawano/By-The-Poolside)から
     
 ### Hello Japan｜朝から欲しい情報がまとまっているダッシュボード
+  - 担当：テックリード（プロジェクトマネジメント）、バックエンド（API）
   - 技術スタック
     - Node.js
     - Express
