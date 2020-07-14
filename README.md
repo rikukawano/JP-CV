@@ -128,9 +128,10 @@
   - Githubは[こちら](https://github.com/rapidPotato/Hello-Japan)から
     
 ## 🔍 興味があるもの
- 1. マイクロサービスアーキテクチャー（gRPC）
- 2. ブロックチェーン
- 3. モバイルAR
+🌱 マイクロサービスアーキテクチャー（gRPC）
+🔗 ブロックチェーン
+🤖 AI/ML
+🔌 IoT
     
 ## 🙎🏻‍♂️ ソーシャル
 |Social|URL|
